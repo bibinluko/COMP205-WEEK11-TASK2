@@ -30,6 +30,9 @@
 body
 {
     background-color: black;
+    height: 1200px;
+    overflow: scroll;   
+    
 }
 
 .full-box
@@ -37,7 +40,7 @@ body
     background-color: red;
     left:0px;
     height: 300px;
-    overflow: scroll;
+    
 }
 
 .middle-box
